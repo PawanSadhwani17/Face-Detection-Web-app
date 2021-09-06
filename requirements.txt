@@ -59,7 +59,6 @@ pyrsistent
 python-dateutil
 pytz
 wheel
-pywinpty
 pyzmq
 requests
 Send2Trash
