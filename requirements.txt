@@ -81,5 +81,6 @@ webencodings
 widgetsnbextension
 zipp
 opencv-contrib-python
-
+keras
+tensorflow-cpu
 
