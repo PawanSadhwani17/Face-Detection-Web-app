@@ -82,3 +82,4 @@ widgetsnbextension==3.5.1
 zipp==3.4.1
 opencv-contrib-python
 pywin32
+wheel
