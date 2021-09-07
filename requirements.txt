@@ -1,6 +1,3 @@
-libsm6 
-libxrender1
-libfontconfig1
 altair
 argon2-cffi
 astor
